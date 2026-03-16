@@ -14,24 +14,27 @@
 - sequence
     - number
         - with-padding
-            - 0-99
-                - style1
-                    - [black](sequence/number/with-padding/0-99/style1/black)
-                    - [white](sequence/number/with-padding/0-99/style1/white)
+            - style1
+                - black
+                    - [0-99](sequence/number/with-padding/style1/black/0-99)
+                - white
+                    - [0-99](sequence/number/with-padding/style1/white/0-99)
         - without-padding
-            - 0-10
-                - style6
-                    - [black](sequence/number/without-padding/0-10/style6/black)
-                    - [white](sequence/number/without-padding/0-10/style6/white)
-            - 0-99
-                - style2
-                    - [white](sequence/number/without-padding/0-99/style2/white)
-                - style3
-                    - [white](sequence/number/without-padding/0-99/style3/white)
+            - style2
+                - white
+                    - [0-99](sequence/number/without-padding/style2/white/0-99)
+            - style3
+                - white
+                    - [0-99](sequence/number/without-padding/style3/white/0-99)
+            - style6
+                - black
+                    - [0-10](sequence/number/without-padding/style6/black/0-10)
+                - white
+                    - [0-10](sequence/number/without-padding/style6/white/0-10)
     - chinese-number
-        - 0-10
-            - style4
-                - [white](sequence/chinese-number/0-10/style4/white)
+        - style4
+            - white
+                - [0-10](sequence/chinese-number/style4/white/0-10)
     - alphabet
         - capital
             - style1
@@ -48,11 +51,12 @@
                 - [white](sequence/alphabet/lower-case/style5/white)
 
 # sequence-style
-style|font|alignment|font-size<br>(pt)|page-size<br>(mm)
-:-:|:-|:-:|:-:|:-:
-1|arial|center|270|200*200
-2|ocr-a|center|unk|unk
-3|din1451|center|unk|unk
-4|hei-ti|center|270|200*200
-5|din1451|center|370|200*200
-6|helvetica-for-target-bold|center|unk|unk
+style|font|alignment|font-size<br>(pt)|page-size<br>(mm)|TID
+:-:|:-|:-:|:-:|:-:|:-
+1|arial|center|270|200*200|`251118b102114y`
+2|ocr-a|center|unk|unk|`251118b102114y`
+3|din1451|center|unk|unk|`251118b102114y`
+4|hei-ti|center|270|200*200|`251118b102114y`
+5|din1451|center|370|200*200|`251217c1130mx`
+6|helvetica-for-target-bold|center|unk|unk|unk
+7|google-sans|center|unk|unk|`250407a233421`
