@@ -25,9 +25,9 @@
                     - [white](sequence/number/without-padding/0-10/style6/white)
             - 0-99
                 - style2
-                    - [white](sequence/number/with-padding/0-99/style2/white)
+                    - [white](sequence/number/without-padding/0-99/style2/white)
                 - style3
-                    - [white](sequence/number/with-padding/0-99/style3/white)
+                    - [white](sequence/number/without-padding/0-99/style3/white)
     - chinese-number
         - 0-10
             - style4
