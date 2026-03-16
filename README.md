@@ -35,7 +35,7 @@
                 - black
                     - 0-10
                         - [png](sequence/number/without-padding/style7/black/0-10/png)
-                        - [png](sequence/number/without-padding/style7/black/0-10/svg)
+                        - [svg](sequence/number/without-padding/style7/black/0-10/svg)
                 - white
                     - 0-10
                         - [png](sequence/number/without-padding/style7/white/0-10/png)
