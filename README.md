@@ -1,10 +1,10 @@
 # Signs_260316
 ## (hfp)
 ### entity
-version|white|black|watermark|customized
-:-:|:-:|:-:|:-:|:-:
-v1|[●]((hfp)/v1/white)|[●]((hfp)/v1/black)|[●]((hfp)/v1/watermark)|N/A
-v1.fix|N/A|[●]((hfp)/v1.fix/black)|N/A|[●]((hfp)/v1.fix/customized)
+version|white|black|watermark|customized|release-date
+:-:|:-:|:-:|:-:|:-:|:-:
+v1|[●]((hfp)/v1/white)|[●]((hfp)/v1/black)|[●]((hfp)/v1/watermark)|N/A|2024-12-23
+v1.fix|N/A|[●]((hfp)/v1.fix/black)|N/A|[●]((hfp)/v1.fix/customized)|2025-07-31
 
 ## sequence
 ### style
