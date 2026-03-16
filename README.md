@@ -1,16 +1,24 @@
 # Signs_260316
+## (hfp)
+### entity
+version|white|black|watermark|customized
+:-:|:-:|:-:|:-:|:-:
+v1|[●]((hfp)/v1/white)|[●]((hfp)/v1/black)|[●]((hfp)/v1/watermark)|N/A
+v1.fix|N/A|[●]((hfp)/v1.fix/black)|N/A|[●]((hfp)/v1.fix/customized)
 
-- (hfp)
-    - v1
-        - [white]((hfp)/v1/white)
-        - [black]((hfp)/v1/black)
-        - [watermark]((hfp)/v1/watermark)
-        - [customized]((hfp)/v1/customized)
-    - v1.fix
-        - [white]((hfp)/v1.fix/white)
-        - [black]((hfp)/v1.fix/black)
-        - [watermark]((hfp)/v1.fix/watermark)
-        - [customized]((hfp)/v1.fix/customized)
+## sequence
+### style
+style|font|alignment|font-size<br>(pt)|page-size<br>(mm)|TID
+:-:|:-|:-:|:-:|:-:|:-:
+1|arial|center|270|200*200|`251118b102114y`
+2|ocr-a|center|unk|unk|`251118b102114y`
+3|din-1451|center|unk|unk|`251118b102114y`
+4|hei-ti|center|270|200*200|`251118b102114y`
+5|din-1451|center|370|200*200|`251217c1130mx`
+6|helvetica-for-target-bold|center|unk|unk|unk
+7|google-sans|center|unk|unk|`250407a233421`
+
+### entity
 - sequence
     - number
         - with-padding
@@ -58,14 +66,3 @@
             - style1
                 - [black](sequence/alphabet/lower-case/style1/black)
                 - [white](sequence/alphabet/lower-case/style1/black)
-
-# sequence-style
-style|font|alignment|font-size<br>(pt)|page-size<br>(mm)|TID
-:-:|:-|:-:|:-:|:-:|:-:
-1|arial|center|270|200*200|`251118b102114y`
-2|ocr-a|center|unk|unk|`251118b102114y`
-3|din-1451|center|unk|unk|`251118b102114y`
-4|hei-ti|center|270|200*200|`251118b102114y`
-5|din-1451|center|370|200*200|`251217c1130mx`
-6|helvetica-for-target-bold|center|unk|unk|unk
-7|google-sans|center|unk|unk|`250407a233421`
