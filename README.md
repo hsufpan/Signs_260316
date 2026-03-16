@@ -31,6 +31,15 @@
                     - [0-10](sequence/number/without-padding/style6/black/0-10)
                 - white
                     - [0-10](sequence/number/without-padding/style6/white/0-10)
+            - style7
+                - black
+                    - 0-10
+                        - [png](sequence/number/without-padding/style7/black/0-10/png)
+                        - [png](sequence/number/without-padding/style7/black/0-10/svg)
+                - white
+                    - 0-10
+                        - [png](sequence/number/without-padding/style7/white/0-10/png)
+                        - [svg](sequence/number/without-padding/style7/white/0-10/svg)
     - chinese-number
         - style4
             - white
