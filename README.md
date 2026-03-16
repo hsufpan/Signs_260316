@@ -40,6 +40,8 @@
             - style1
                 - [black](sequence/alphabet/capital/style1/black)
                 - [white](sequence/alphabet/capital/style1/white)
+            - style5
+                - [white](sequence/alphabet/capital/style5/white)
             - style6
                 - [black](sequence/alphabet/capital/style6/black)
                 - [white](sequence/alphabet/capital/style6/white)
@@ -47,16 +49,14 @@
             - style1
                 - [black](sequence/alphabet/lower-case/style1/black)
                 - [white](sequence/alphabet/lower-case/style1/black)
-            - style5
-                - [white](sequence/alphabet/lower-case/style5/white)
 
 # sequence-style
 style|font|alignment|font-size<br>(pt)|page-size<br>(mm)|TID
-:-:|:-|:-:|:-:|:-:|:-
+:-:|:-|:-:|:-:|:-:|:-:
 1|arial|center|270|200*200|`251118b102114y`
 2|ocr-a|center|unk|unk|`251118b102114y`
-3|din1451|center|unk|unk|`251118b102114y`
+3|din-1451|center|unk|unk|`251118b102114y`
 4|hei-ti|center|270|200*200|`251118b102114y`
-5|din1451|center|370|200*200|`251217c1130mx`
+5|din-1451|center|370|200*200|`251217c1130mx`
 6|helvetica-for-target-bold|center|unk|unk|unk
 7|google-sans|center|unk|unk|`250407a233421`
