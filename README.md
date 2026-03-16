@@ -13,19 +13,38 @@
         - [customized]((hfp)/v1.fix/customized)
 - sequence
     - number
+        - with-padding
+            - 0-99
+                - style1
+                    - [black](sequence/number/with-padding/0-99/style1/black)
+                    - [white](sequence/number/with-padding/0-99/style1/white)
+        - without-padding
+            - 0-99
+                - style2
+                    - [white](sequence/number/with-padding/0-99/style2/white)
+                - style3
+                    - [white](sequence/number/with-padding/0-99/style3/white)
+    - chinese-number
+        - 0-10
+            - style4
+                - [white](sequence/chinese-number/0-10/style4/white)
     - alphabet
-      - capital
-          - type1
-              - [black](sequence/alphabet/capital/type1/black)
-              - white
-      - lower-case
-          - type1
-              - black
-              - white
+        - capital
+            - style1
+                - [black](sequence/alphabet/capital/style1/black)
+                - [white](sequence/alphabet/capital/style1/white)
+        - lower-case
+            - style1
+                - [black](sequence/alphabet/lower-case/style1/black)
+                - [white](sequence/alphabet/lower-case/style1/black)
+            - style5
+                - [white](sequence/alphabet/lower-case/style5/white)
 
-# sequence-format
-## type1
-- font: arial
-- alignment: center
-- font-size: 270pt
-- page-size: 200*200mm
+# sequence-style
+style|font|alignment|font-size<br>(pt)|page-size<br>(mm)
+:-:|:-:|:-:|:-:|:-:
+1|arial|center|270|200*200
+2|ocr-a|center|unk|unk
+3|din1451|center|unk|unk
+4|hei-ti|center|270|200*200
+5|din1451|center|370|200*200
