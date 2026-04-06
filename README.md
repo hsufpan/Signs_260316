@@ -1,13 +1,13 @@
 # (91) Signs<br>*A Member of DB4M*
 ## (hfp)
-### Entity
+### Entities
 Version|White|Black|Watermark|Customized|Release Date
 :-:|:-:|:-:|:-:|:-:|:-:
 v1|[SUPERSEDED](/(hfp)/v1/white)|[SUPERSEDED](/(hfp)/v1/black)|[SUPERSEDED](/(hfp)/v1/watermark)|N/A|24-12-23
 v1.fix|N/A|[ACTIVE](/(hfp)/v1.fix/black)|N/A|[ACTIVE](/(hfp)/v1.fix/customized)|25-07-31
 
 ## Sequence
-### Style
+### Styles
 Style|Font|Alignment|Font Size<br>(pt)|Page Size<br>(mm)|TID
 :-:|:-|:-:|:-:|:-:|:-:
 1|Arial|Center|270|200*200|`251118b102114y`
@@ -18,7 +18,7 @@ Style|Font|Alignment|Font Size<br>(pt)|Page Size<br>(mm)|TID
 6|Helvetica for Target Bold|Center|UNK|UNK|UNK
 7|Google Sans|Center|UNK|UNK|`250407a233421`
 
-### Entity
+### Entities
 - sequence
     - number
         - with-padding
@@ -68,6 +68,8 @@ Style|Font|Alignment|Font Size<br>(pt)|Page Size<br>(mm)|TID
                 - [white](/sequence/alphabet/lower-case/style1/black)
 
 ## homescreen-shortcuts
+### Styles
+### Entities
 - layout
     - [#before](/homescreen-shortcuts/layout-#before)
     - [v251128](/homescreen-shortcuts/layout-v251128)
