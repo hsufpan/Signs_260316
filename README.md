@@ -1,4 +1,4 @@
-# (91) Signs<br>*A Member of DB4M*
+# (91) Signs
 ## (hfp)
 ### Entities
 Version|White|Black|Watermark|Customized|Release Date
@@ -75,3 +75,4 @@ Style|Font|Alignment|Font Size<br>(pt)|Page Size<br>(mm)|TID
     - [v251128](/homescreen-shortcuts/layout-v251128)
     - [v251130](/homescreen-shortcuts/layout-v251130)
     - [v260401](/homescreen-shortcuts/layout-v260401)
+    - [v260406](/homescreen-shortcuts/layout-v260406)
