@@ -1,10 +1,10 @@
 # (91) Signs
-## (hfp)
+## (hfp) Logo
 ### Entities
 Version|White|Black|Watermark|Customized|Release Date
 :-:|:-:|:-:|:-:|:-:|:-:
-v1|[SUPERSEDED](/(hfp)/v1/white)|[SUPERSEDED](/(hfp)/v1/black)|[SUPERSEDED](/(hfp)/v1/watermark)|N/A|24-12-23
-v1.fix|N/A|[ACTIVE](/(hfp)/v1.fix/black)|N/A|[ACTIVE](/(hfp)/v1.fix/customized)|25-07-31
+v1|[SUPERSEDED](/(hfp)/v1/white)|[SUPERSEDED](/(hfp)/v1/black)|[SUPERSEDED](/(hfp)/v1/watermark)|N/A|2024-12-23
+v1.fix|N/A|[ACTIVE](/(hfp)/v1.fix/black)|N/A|[ACTIVE](/(hfp)/v1.fix/customized)|2025-07-31
 
 ## Sequence
 ### Styles
@@ -71,8 +71,9 @@ Style|Font|Alignment|Font Size<br>(pt)|Page Size<br>(mm)|TID
 ### Styles
 ### Entities
 - layout
-    - [#before](/homescreen-shortcuts/layout-#before)
+    - [before](/homescreen-shortcuts/layout-#before)
     - [v251128](/homescreen-shortcuts/layout-v251128)
     - [v251130](/homescreen-shortcuts/layout-v251130)
     - [v260401](/homescreen-shortcuts/layout-v260401)
     - [v260406](/homescreen-shortcuts/layout-v260406)
+    - [v260527](/homescreen-shortcuts/layout-260527)
